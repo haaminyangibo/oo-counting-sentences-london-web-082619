@@ -16,8 +16,9 @@ class String
   end
 
   def count_sentences
-binding.pry 
+    
   if self.end_with? (".", ",", "!", "?")
      then self.split
+  end
   end
 end
