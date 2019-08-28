@@ -19,8 +19,5 @@ class String
     
   self.end_with? (".", ",", "!", "?")
   
-  self.split
-  
-     
   end
 end
