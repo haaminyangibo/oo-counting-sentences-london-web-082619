@@ -16,8 +16,6 @@ class String
   end
 
   def count_sentences
-    
-  self.end_with? (".", ",", "!", "?")
   
   end
 end
